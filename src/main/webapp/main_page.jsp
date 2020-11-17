@@ -20,6 +20,7 @@
 <%@include file="header.jsp"%>
 
 <div class="container">
+    test
     <div class="row">
         <div class="col">
             <div id="all_news" class="p-2">
